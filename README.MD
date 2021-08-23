@@ -26,3 +26,5 @@ You can test it using `live-server`:
 cd out
 npx live-server
 ```
+
+Like this example? Be sure to star the repo and [follow the author](https://twitter.com/ashleydavis75) on Twitter for more!
