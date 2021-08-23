@@ -1,6 +1,6 @@
 # Simple example: React, Parcel + TypeScript
 
-This is the simplest possible example of frontend built with TypeScript and React and bundled with Parcel (v1).
+This is the simplest possible example of a frontend built with TypeScript and React and bundled with Parcel (v1).
 
 ## Serve the web page with live reload
 
@@ -20,3 +20,9 @@ npm run build
 
 The static web page is output to the `out` subdirectory.
 
+You can test it using `live-server`:
+
+```bash
+cd out
+npx live-server
+```
