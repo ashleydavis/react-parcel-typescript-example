@@ -5,8 +5,10 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --out-dir=out",
-    "compile": "tsc"
+    "s": "npm start",
+    "bundle": "parcel build index.html --out-dir=out",
+    "b": "npm run build",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "ashley@codecapers.com.au",
