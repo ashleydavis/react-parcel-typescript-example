@@ -1,8 +1,10 @@
-# Simple example: React, Parcel + TypeScript (also Tailwind)
+# Simple example: React, Parcel + TypeScript (also Tailwind & React Router)
 
 This is the simplest possible example of a frontend built with TypeScript and React and bundled with Parcel (v1).
 
-Includes Tailwind CSS (configured as [these instructions](https://tailwindcss.com/docs/installation#using-tailwind-cli)).
+Includes Tailwind CSS (configured as per [these instructions](https://tailwindcss.com/docs/installation#using-tailwind-cli)).
+
+Includes [React Router v6](https://reactrouter.com/docs/en/v6).
 
 If you like this project, please star this repo and [support my work](https://www.codecapers.com.au/about#support-my-work)
 
