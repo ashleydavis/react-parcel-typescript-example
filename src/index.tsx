@@ -5,7 +5,7 @@ class App extends React.Component {
     render() {
         const msg = "Hello world!";
 
-        return <div>{msg}</div>;
+        return <div className="hello text-xl">{msg}</div>;
     }
 }
 
