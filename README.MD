@@ -2,6 +2,8 @@
 
 This is the simplest possible example of a frontend built with TypeScript and React and bundled with Parcel (v1).
 
+If you like this project, please star this repo and [support my work](https://www.codecapers.com.au/about#support-my-work)
+
 ## Serve the web page with live reload
 
 ```bash
