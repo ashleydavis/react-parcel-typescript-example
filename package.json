@@ -6,9 +6,8 @@
   "scripts": {
     "start": "parcel index.html",
     "s": "npm start",
-    "bundle": "parcel build index.html --out-dir=out",
-    "b": "npm run build",
-    "build": "tsc"
+    "build": "parcel build index.html --out-dir=out",
+    "tsc": "tsc"
   },
   "keywords": [],
   "author": "ashley@codecapers.com.au",
