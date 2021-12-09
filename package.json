@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel index.html",
     "s": "npm start",
-    "build": "parcel build index.html --out-dir=out",
+    "build": "parcel build index.html --out-dir=dist",
     "tsc": "tsc"
   },
   "keywords": [],

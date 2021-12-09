@@ -4,4 +4,3 @@ tsconfig.tsbuildinfo
 todo.txt
 build/
 .cache/
-out/
