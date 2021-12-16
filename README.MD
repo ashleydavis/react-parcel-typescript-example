@@ -50,3 +50,19 @@ npm run build
 ```
 
 Like this example? Be sure to star the repo and [follow the author](https://twitter.com/ashleydavis75) on Twitter for more!
+
+## Debugging
+
+You need to have a `/temp` directory on your system. This is used to load a new instance of Chrome from a seperate profile for debugging.
+
+Launch the dev server:
+
+```bash
+npm start
+```
+
+Set breakpoints in your code.
+
+In VS Code open the debugging pane, choose "Launch Chrome" then hit F5.
+
+Refresh the browser to trigger your breakpoints again.
