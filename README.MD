@@ -42,7 +42,8 @@ You can test it using `live-server`:
 
 ```bash
 cd dist
-npx live-server
+npm install -g live-server
+live-server
 ```
 
 ## Build the TypeScript code

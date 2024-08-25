@@ -13,19 +13,17 @@
         "c": "pnpm run compile"
     },
     "keywords": [],
-    "author": "",
-    "license": "ISC",
+    "author": "ashley@codecapers.com.au",
+    "license": "MIT",
     "devDependencies": {
-        "@parcel/transformer-less": "^2.10.3",
-        "@types/react": "^18.2.45",
-        "@types/react-dom": "^18.2.18",
-        "live-server": "^1.2.2",
-        "parcel": "^2.10.3",
-        "typescript": "^5.3.3"
+        "@types/react": "^18.3.4",
+        "@types/react-dom": "^18.3.0",
+        "parcel": "^2.12.0",
+        "typescript": "^5.5.4"
     },
     "dependencies": {
         "process": "^0.11.10",
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0"
+        "react": "^18.3.1",
+        "react-dom": "^18.3.1"
     }
 }
